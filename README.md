@@ -49,7 +49,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Mr-NotSoCreative/four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://mr-notsocreative.github.io/four-card-feature-section/)
 
 ## My process
 
