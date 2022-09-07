@@ -52,13 +52,12 @@ h1 {
   grid-template-columns: repeat(3, 1fr);
 
   gap: 25px;
-  max-width: 1110px;
+  max-width: 1200px;
   align-items: center;
 }
 .card {
   background-color: white;
-  padding: 40px;
-  max-width: fit-content;
+  padding: 30px;
   display: grid;
   grid-template-rows: auto auto;
   row-gap: 50px;
