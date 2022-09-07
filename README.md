@@ -24,7 +24,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### The Design
+## The Design
 
 ### Desktop design
 
@@ -34,7 +34,7 @@ Users should be able to:
 
 ![mobile-design.jpg](./design/mobile-design.jpg)
 
-### What I Built
+## What I Built
 
 ### Screenshot
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Mobile Preview
 
-![mobile-preview](./images/Screenshot-mobile.png)
+![mobile-preview.png](./images/Screenshot-mobile.png)
 
 ### Links
 
