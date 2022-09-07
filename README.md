@@ -8,7 +8,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [The Design](#the-design)
   - [What I Built](#what-i-built)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
 
@@ -36,7 +36,7 @@ Users should be able to:
 
 ## What I Built
 
-### Screenshot
+### Screenshots
 
 ### Desktop Preview
 
