@@ -11,9 +11,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
-
   - [Built with](#built-with)
-
 - [Author](#author)
 
 ## Overview
@@ -63,4 +61,3 @@ Users should be able to:
 
 - Frontend Mentor - [@Mr-NotSoCreative](https://www.frontendmentor.io/profile/Mr-NotSoCreative)
 - Github - [@Mr-NotSoCreative](https://github.com/Mr-NotSoCreative)
-
